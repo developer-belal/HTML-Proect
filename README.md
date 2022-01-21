@@ -1,2 +1,2 @@
-# HTML-Proect
+# HTML-Project
 HTML first project
